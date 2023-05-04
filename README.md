@@ -1,5 +1,5 @@
 # Description
-Distance detection of Indonesian license plate using Yolov4
+Distance estimation of Indonesian license plate using Yolov4
 
 # To-do
 ## Installation you need opencv-contrib-python
